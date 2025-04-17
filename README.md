@@ -128,15 +128,6 @@ yarn dev
    - Appointment reminders
    - Calendar integration
 
-## 🧪 Testing
-
-```bash
-# Run tests
-npm run test
-# or
-yarn test
-```
-
 ## 📚 Project Structure
 
 ```
